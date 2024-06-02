@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project combines Simultaneous Localization and Mapping (SLAM) with speech recognition to control a robot's movements. SLAM is used to map the environment and localize the robot within it, while speech recognition allows users to give commands to the robot verbally.
+This project combines Simultaneous Localization and Mapping (SLAM) with speech recognition to control a robot's movements. SLAM is used to map the environment and localize the robot within it, while speech recognition allows users to give commands to the robot verbally. The wake up word "leo" is used to activate the speech recognition system, indicating that the robot is ready to receive commands.
 
 The system integrates the following components:
 
