@@ -61,6 +61,6 @@ Contributions are welcome! If you have any suggestions, feature requests, or bug
 
 ## Acknowledgements
 
-- [EkfSLAM](https://github.com/your_username/ekf-slam): Library for EKF-SLAM implementation.
-- [Vosk](https://github.com/your_username/vosk): Library for speech recognition.
+- [EkfSLAM](https://github.com/Attila94/EKF-SLAM): Library for EKF-SLAM implementation.
+- [Vosk](https://github.com/alphacep/vosk-api): Library for speech recognition.
 - [OpenCV](https://github.com/opencv/opencv): Library for computer vision tasks.
