@@ -1,6 +1,6 @@
 # Robot Control with SLAM and Speech Recognition
 
-![Robot](https://your_image_url_here.jpg)
+![photo_2024-06-02_16-31-44](https://github.com/Mostafa-Emad77/Autonomous-Car-Navigation-using-ArUco-Markers-and-Voice-Assistant/assets/66144435/a35a5544-9000-4ffd-b683-231033dcf851)
 
 ## Overview
 
