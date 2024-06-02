@@ -28,7 +28,7 @@ The system integrates the following components:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/robot-control.git
+   git clone https://github.com/Mostafa-Emad77/Autonomous-Car-Navigation-using-ArUco-Markers-and-Voice-Assistant
    ```
 
 2. Install the required dependencies:
